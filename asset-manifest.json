@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/shell-game/static/css/main.eec614f1.chunk.css",
+    "main.js": "/shell-game/static/js/main.e2a50910.chunk.js",
+    "main.js.map": "/shell-game/static/js/main.e2a50910.chunk.js.map",
+    "runtime-main.js": "/shell-game/static/js/runtime-main.d669565f.js",
+    "runtime-main.js.map": "/shell-game/static/js/runtime-main.d669565f.js.map",
+    "static/js/2.65665174.chunk.js": "/shell-game/static/js/2.65665174.chunk.js",
+    "static/js/2.65665174.chunk.js.map": "/shell-game/static/js/2.65665174.chunk.js.map",
+    "index.html": "/shell-game/index.html",
+    "precache-manifest.f73bff23b25fca960d1647762767ac50.js": "/shell-game/precache-manifest.f73bff23b25fca960d1647762767ac50.js",
+    "service-worker.js": "/shell-game/service-worker.js",
+    "static/css/main.eec614f1.chunk.css.map": "/shell-game/static/css/main.eec614f1.chunk.css.map",
+    "static/js/2.65665174.chunk.js.LICENSE.txt": "/shell-game/static/js/2.65665174.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/shell-game/static/media/confetti.e4d2c1d0.gif",
+    "static/media/balloons.gif": "/shell-game/static/media/balloons.d2fdbd06.gif",
+    "static/media/players.png": "/shell-game/static/media/players.9e556d63.png",
+    "static/media/star.png": "/shell-game/static/media/star.18d108fc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d669565f.js",
+    "static/js/2.65665174.chunk.js",
+    "static/css/main.eec614f1.chunk.css",
+    "static/js/main.e2a50910.chunk.js"
+  ]
+}
